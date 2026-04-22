@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Fixed off-by-one error in loop
 - Removed unused variable declarations
+
+## 2026-04-22
+- Removed unused variable declarations
+- Fixed off-by-one error in loop
